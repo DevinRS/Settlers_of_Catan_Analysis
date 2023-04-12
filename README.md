@@ -12,7 +12,8 @@ This repository contains data analysis on 50 games of Settlers of Catan. The ana
 </ul>
 
 <h2>Analysis</h2>
-The analysis is based on 50 games of Settlers of Catan and aims to provide insights into the game mechanics and strategies. The questions analyzed are related to the importance of resource-related attributes, harbor control, and resource diversity in the early game. <br>
+The analysis is based on 50 games of Settlers of Catan and aims to provide insights into the game mechanics and strategies. The questions analyzed are related to the importance of resource-related attributes, harbor control, and resource diversity in the early game.
+
 
 In the Analysis1/ folder, the analysis focuses on which resource-related attributes or actions contribute to the most points gained for a player. The analysis considers the total number of resources collected by each player, the number of settlements and cities built, and the number of development cards played.
 
