@@ -2,6 +2,8 @@
 
 This repository contains data analysis on 50 games of Settlers of Catan. The analysis is focused on answering three main questions related to resource-related attributes, harbor control, and resource diversity.
 
+dataset: https://www.kaggle.com/datasets/lumins/settlers-of-catan-games
+
 <h2>Files</h2>
 <ul>
   <li>'Analysis1/: Contains the analysis of the question 'Which resource-related attributes or actions contribute to the most points gained for a player?'. </li>
